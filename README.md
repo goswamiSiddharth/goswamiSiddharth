@@ -11,7 +11,8 @@
 ---
 
 ### ⚙️ Technology:  
-![Node.js](https://img.shields.io/badge/node-js-v18-brightgreen?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-v18-blue?style=flat&logo=react&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/node-js-v18-brightgreen?style=flat&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-v18-blue?style=flat&logo=react&logoColor=%2361DAFB)  
 ![Spring Boot](https://img.shields.io/badge/spring-boot-v3-green?style=flat&logo=springboot&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-v8-blue?style=flat&logo=mysql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/aws-latest-orange?style=flat&logo=amazonaws&logoColor=white)
@@ -44,32 +45,21 @@ Welcome to my GitHub! Here you’ll find:
 
 ---
 
-## 🧠 Skills & Tech Stack  
 
-### Languages  
-![Java](https://img.shields.io/badge/java-latest-orange?style=flat&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-latest-yellow?style=flat&logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-latest-blue?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/python-latest-blue?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8?style=flat&logo=go&logoColor=white)
+---
 
-### Frontend  
-![React](https://img.shields.io/badge/react-v18-blue?style=flat&logo=react&logoColor=%2361DAFB)  
-![Angular](https://img.shields.io/badge/angular-v18-red?style=flat&logo=angular&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-latest-cyan?style=flat&logo=tailwind-css&logoColor=white)  
-![Material-UI](https://img.shields.io/badge/material-ui-latest-blue?style=flat&logo=material-ui&logoColor=white)  
-
-### Backend & APIs  
-![Spring Boot](https://img.shields.io/badge/spring-boot-v3-green?style=flat&logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node-latest-green?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/express-latest-grey?style=flat&logo=express&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-v8-blue?style=flat&logo=mysql&logoColor=white)  
-
-### Tools & Platforms  
-![AWS](https://img.shields.io/badge/AWS-latest-orange?style=flat&logo=amazonaws&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-latest-blue?style=flat&logo=visual-studio-code&logoColor=white)  
-![Git](https://img.shields.io/badge/git-latest-red?style=flat&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/postman-latest-orange?style=flat&logo=postman&logoColor=white)  
+## 🧠 Tech Stack  ⚡  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go" alt="Languages icons" /><br>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,tailwind,bootstrap,html,css" alt="Frontend icons" /><br>
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,firebase,realm" alt="Backend icons" /><br>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=aws,appwrite,amplify,postman,git,vscode" alt="Tools icons" />
+</p>
+⚡ (END of new compact layout)  
 
 ---
 
