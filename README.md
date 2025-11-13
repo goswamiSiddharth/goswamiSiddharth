@@ -11,8 +11,7 @@
 ---
 
 ### ⚙️ Technology:  
-![Node.js](https://img.shields.io/badge/node-js-v18-brightgreen?style=flat&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/react-v18-blue?style=flat&logo=react&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/node-js-v18-brightgreen?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-v18-blue?style=flat&logo=react&logoColor=%2361DAFB)  
 ![Spring Boot](https://img.shields.io/badge/spring-boot-v3-green?style=flat&logo=springboot&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-v8-blue?style=flat&logo=mysql&logoColor=white)  
 ![AWS](https://img.shields.io/badge/aws-latest-orange?style=flat&logo=amazonaws&logoColor=white)
