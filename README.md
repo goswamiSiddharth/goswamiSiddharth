@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Goswami</h1>
 <h3 align="center">A passionate fullsatck developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamisiddharth&label=Profile%20views&color=0e75b6&style=flat" alt="goswamisiddharth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goswamiiddharth&label=Profile%20views&color=0e75b6&style=flat" alt="goswamisiddharth" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goswamisiddharth" alt="goswamisiddharth" /></a> </p> -->
 
@@ -30,6 +30,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=goswamiSiddharth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=goswamiSiddharth&theme=dark&hide_border=false)<br/> 
+      <p align="right">
+      <img align="right" height="150" width="300"  src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  /> 
+      </p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goswamiSiddharth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
